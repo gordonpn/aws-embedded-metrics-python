@@ -1,7 +1,8 @@
 repo_name: gordonpn/aws-embedded-metrics-python
 report_id: 5573201c257a07dc82fe2247ca315028
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T13:43:44+00:00'
+timestamp: '2024-01-04T14:54:04+00:00'
 requested_by: gordonpn
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python/blob/master/examples/ec2/metadata-endpoint/Dockerfile
   detection_source: examples/ec2/metadata-endpoint/Dockerfile
   last_updated_by: Jared Nance
   last_updated_on: 2019-11-04 05:44:56.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Jared Nance
   last_updated_on: 2019-10-24 20:12:21.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python/blob/master/tests/integ/agent/Dockerfile
   detection_source: tests/integ/agent/Dockerfile
   last_updated_by: Jared Nance
   last_updated_on: 2020-08-28 15:10:24.000000000 Z
@@ -79,16 +86,18 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python
   detection_source: Repo Metadata
 - name: aiohttp
   description: Async http client/server framework
-  package_url: https://pypi.org/aiohttp
+  package_url: https://pypi.org/project/aiohttp
   license: Apache-2.0
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19852/default_d748224707283d9d8a73c2323730c87bda6b313a.png
+  detection_source_url: https://github.com/gordonpn/aws-embedded-metrics-python/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Jared Nance
   last_updated_on: 2019-11-04 00:32:59.000000000 Z
